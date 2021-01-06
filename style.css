@@ -10,7 +10,6 @@ body {
     display: inline-block;
     padding-left: 45px;
   }
-  
 .header-top {
     display: inline-block;
     margin-left: 58%;
@@ -28,45 +27,33 @@ body {
     border-radius: 5px;
   }
 
-
-
-
-
   .welcome-note {
     display: flex;
     margin-top: 50px;
   }
-
   .welcome-1 {
     width: 50%;
     height: 550px;
     float: left;
     padding: 2%;
   }
-  
 .welcome-1 img {
     width: 100%;
     height: 100%;
-    
   }
-  
 .welcome-1 p {
   text-align: justify;
   padding: 10px;
 }
-
   .about{
       display: flex;
       margin-top: 50px;
   }
-
-  
 .welcome-1 h1 {
     font-size: 50px;
     color: rgb(231, 142, 24);
     text-transform: uppercase;
   }
-
   .link-button {
     text-decoration: none;
     background-color: rgb(238, 85, 14);
@@ -77,46 +64,29 @@ body {
   }
   #cl-1{
       color: rgb(10, 7, 1);
-
   }
-
-
-
-
-
-
-  
 
   #pro-sec {
     background-color: #8080801f;
     height: 720px;
   }
-
-
   .profile {
     padding: 20px;
   }
-  
 #text-color {
   color: orange;
 }
   .project-profile {
     margin-top: 140px;
     margin-left: 33px;
-
-  }
+}
   .profile h1 {
     text-align: center;
     text-transform: uppercase;
     font-size: 35px;
-  }
+}
 
-
-
-  
-  
-  
-  .profile-1 {
+.profile-1 {
     width: 20.8%;
     margin-top: 30px;
     margin-left: 110px;
@@ -127,32 +97,22 @@ body {
     border-radius: 20px;
     background-color: white;
     text-align: justify;
-  }
+}
   .profile-1 img {
     width: 320px;
     height: 210px;
-  }
-
-  
+} 
 .profile-1 p {
     padding: 0px;
     margin: 0px;
     font-size: 22px;
     font-weight: bold;
-  }
-  
+}
 .profile-1 #text-design {
   font-size: 15px;
   font-weight: normal;
   color: #866060;
 }
-
-
-
-
-
-
-
 
 .inq-sec {
   margin-top: 150px;
@@ -168,10 +128,6 @@ body {
   margin-bottom: 150px;
   border-radius: 17px;
 }
-
-
-
-
 .inq-design h1 {
   display: inline-block;
   margin-left: 60px;
@@ -180,10 +136,6 @@ body {
   color: white;
   text-transform: uppercase;
 }
-
-
-
-
 .inq-design a {
   margin-left: 132px;
   color: white;
@@ -194,20 +146,6 @@ body {
   font-size: 18px;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 .container {
   width: 63%;
   border-radius: 5px;
@@ -215,7 +153,6 @@ body {
   padding: 31px;
   margin-left: 261px;
 }
-
 input[type=text], textarea {
   width: 100%;
   padding: 12px;
@@ -229,13 +166,11 @@ input[type=text], textarea {
 textarea{
   height: 200px;
 }
-
 h3 {
   font-size: 35px;
   margin-left: 40%;
   text-transform: uppercase;
 }
-
 input {
   background-color: #ace0ae;
   color: rgb(0, 0, 0);
@@ -245,13 +180,10 @@ input {
   border-radius: 4px;
   cursor: pointer;
 }
-
 input:hover {
   background-color: #a8e4df;
   font-weight: bold;
 }
-
-
 
 .footer {
   margin-top: 110px;
@@ -261,7 +193,6 @@ input:hover {
   color: rgb(55, 241, 133);
   font-size: 28px;
 }
-
 .footer h1 {
   font-size: 18px;
   font-weight: normal;
